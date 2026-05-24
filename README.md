@@ -40,8 +40,11 @@ Instead of throwing recyclable items into landfills, users can list their waste,
 | Version Control | Git / GitHub |
 
 ---
-
+## 🌐 Live Demo
+👉 [View Live App](https://waste-app-rho.vercel.app)
 ## 📸 Screenshots
+
+---
 
 > _Screenshots coming soon..._
 
