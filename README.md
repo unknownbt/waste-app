@@ -62,7 +62,7 @@ Make sure you have these installed:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YourUsername/waste-app.git
+git clone https://github.com/unknownbt/waste-app.git
 
 # 2. Navigate into the project
 cd waste-app
@@ -116,7 +116,7 @@ waste-app/
 **Mohd Shahzan Mansoori**
 - 📧 mansoorishazhan5@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/YourUsername)
+- 💻 [GitHub](https://github.com/unknownbt)
 
 ---
 
